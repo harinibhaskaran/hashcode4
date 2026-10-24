@@ -1,0 +1,638 @@
+{
+  "Sora,1.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Sora,2.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Sora,3.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Sora,4.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Sora,5.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,6.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,7.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,8.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,9.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,10.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,11.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,12.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,13.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Sora,14.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,15.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,16.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,17.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,18.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,19.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Sora,20.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Sora,21.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,22.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Sora,23.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Sora,24.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Sora,25.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Sora,26.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,1.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,2.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,3.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,4.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,5.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,6.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,7.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,8.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,9.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,10.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,11.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,12.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,13.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Runway,14.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,15.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Runway,16.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,17.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,18.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,19.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Runway,20.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,1.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,1.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,1.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,2.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,2.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,2.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,3.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,3.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,3.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,4.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,4.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,4.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,5.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,5.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,5.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,6.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,6.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,6.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,7.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,7.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,7.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,8.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,8.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,8.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,9.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,9.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,9.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,10.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,10.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,10.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,11.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,11.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,11.mp4": {
+    "gender": "woman",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,12.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,12.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,12.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,13.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "PixVerse,13.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "KlingAI,13.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "yes",
+    "lighting": "well-lit"
+  },
+  "Pika,14.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,14.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,14.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,15.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "PixVerse,15.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "KlingAI,15.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "bad"
+  },
+  "Pika,16.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,16.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,16.mp4": {
+    "gender": "man",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,17.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,17.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,17.mp4": {
+    "gender": "man",
+    "skin_color": "asian",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,18.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,18.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,18.mp4": {
+    "gender": "woman",
+    "skin_color": "person of color",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,19.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,19.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,19.mp4": {
+    "gender": "woman",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "Pika,20.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "PixVerse,20.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  },
+  "KlingAI,20.mp4": {
+    "gender": "man",
+    "skin_color": "white",
+    "head_movement": "no",
+    "lighting": "well-lit"
+  }
+}

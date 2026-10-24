@@ -1,0 +1,12 @@
+streamlit>=1.38
+numpy>=1.24
+opencv-python-headless>=4.8,<5.0
+plotly>=5.20
+pandas>=2.0
+scipy>=1.10
+# Optional, only if using a Hugging Face pretrained visual model:
+# torch>=2.1
+# transformers>=4.40
+# Optional, for dense facial landmark mesh instead of the portable geometry:
+# mediapipe>=0.10
+
